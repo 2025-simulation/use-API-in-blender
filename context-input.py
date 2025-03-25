@@ -1,3 +1,5 @@
+# 可以进行自然语言输入，API 调用失败脚本
+
 import bpy
 import requests
 import json

@@ -1,3 +1,5 @@
+# 交互窗口成为选项类，脚本代码出现或多或少的错误
+
 import bpy
 import requests
 import json
