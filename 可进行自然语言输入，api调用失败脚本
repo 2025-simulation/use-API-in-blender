@@ -1,5 +1,3 @@
-可进行自然语言输入，api调用失败脚本
-
 import bpy
 import requests
 import json
